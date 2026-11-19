@@ -4,7 +4,7 @@ The first design features a compact blue-themed dashboard, combining playback co
 
 I'm exploring different layouts, color palettes, and interface styles to see which direction works best for the project. Still experimenting haha.😅
 
-![image alt]( )
+![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/76a8a3b4e6a5f1ce750617cfc6f85d82337ea640/Screenshot%202026-11-20%20003828.png)
 ![image alt]( )
 ![image alt]( )
 ![image alt]( )
