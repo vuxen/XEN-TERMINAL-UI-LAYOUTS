@@ -14,4 +14,4 @@ I'm exploring different layouts, color palettes, and interface styles to see whi
 ![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/3658f3d5265253543acd11bd1dabf4dd714a297e/Screenshot%202026-11-20%20004354.png)
 ![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/9e2498245de2ed0e75bb549cf2282cf6623ca49f/Screenshot%202026-11-20%20004402.png)
 ![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/3c9acc50cfeccb0d72c910aff021967106068ba8/Screenshot%202026-11-20%20004425.png)
-![image alt]( )
+![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/17eff22c04c6c512633a0a77cf20dc553117fedd/Screenshot%202026-11-20%20004518.png)
