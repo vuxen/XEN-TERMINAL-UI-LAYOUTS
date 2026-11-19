@@ -11,7 +11,7 @@ I'm exploring different layouts, color palettes, and interface styles to see whi
 ![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/68081e4914bd7ab54ec0abda002c4b2ed5339105/Screenshot%202026-11-20%20004220.png)
 ![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/5e145c1dc5fed25ff6f949290bbbe5af64382b1b/Screenshot%202026-11-20%20004227.png)
 ![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/abde4a67ea59297a369e6b2b0e239af3c8958d26/Screenshot%202026-11-20%20004326.png)
-![image alt]( )
+![image alt](https://github.com/vuxen/XEN-TERMINAL-UI-LAYOUTS/blob/3658f3d5265253543acd11bd1dabf4dd714a297e/Screenshot%202026-11-20%20004354.png)
 ![image alt]( )
 ![image alt]( )
 ![image alt]( )
