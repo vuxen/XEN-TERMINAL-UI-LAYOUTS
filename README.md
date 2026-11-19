@@ -2,7 +2,7 @@
 --Welcome to my Terminal UI Player! 🎧
 
 This is where I showcase the different UI concepts, themes, and layouts I've created for my terminal-based music player. From compact dashboards and colorful interfaces to minimalist monochrome designs, each version offers a different look and approach to organizing music playback, playlists, lyrics, and real-time audio visualization.
-Feel free to explore and suggest the different designs and see how the project has evolved. More experiments and improvements coming soon! 
+Feel free to explore and suggest the different designs and see how the project has evolved. More experiments and improvements coming soon!  
 
 Exploring different visual UI concepts for my YTMusic Terminal Player! 🎧
 
